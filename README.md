@@ -2,15 +2,7 @@
 
 ## UoI-CSE-MYY505 lab06
 
-## First-Name Last-Name
-
-**TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating (markdown)**
-
-
-
-## Problem statement:
-
-Add a few more tests in lab05.s to verify the correct operation of a 5-stage pipelined RISC-V processor.
+## Nikolaos Tselikas-Kourtidis
 
 ## Files to work on
 * `quizLab06` 
